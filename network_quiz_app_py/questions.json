@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which OSI layer is responsible for establishing, managing, and terminating sessions?",
+    "choices": ["Physical", "Session", "Transport", "Application"],
+    "answer": "Session"
+  },
+  {
+    "question": "What is the primary purpose of a MAC address?",
+    "choices": ["Identify the network", "Identify the host on a local network", "Encrypt data", "Route packets across networks"],
+    "answer": "Identify the host on a local network"
+  },
+  {
+    "question": "Which protocol provides automatic IP addressing for devices?",
+    "choices": ["DNS", "DHCP", "ARP", "ICMP"],
+    "answer": "DHCP"
+  },
+  {
+    "question": "Which type of IP address is routable on the internet?",
+    "choices": ["10.0.0.1", "192.168.1.1", "172.16.0.1", "8.8.8.8"],
+    "answer": "8.8.8.8"
+  },
+  {
+    "question": "Which protocol resolves hostnames to IP addresses?",
+    "choices": ["FTP", "DNS", "HTTP", "SSH"],
+    "answer": "DNS"
+  },
+  {
+    "question": "What device connects multiple networks and routes traffic between them?",
+    "choices": ["Switch", "Router", "Hub", "Access Point"],
+    "answer": "Router"
+  },
+  {
+    "question": "Which device broadcasts traffic to all devices on a network segment?",
+    "choices": ["Router", "Switch", "Hub", "Firewall"],
+    "answer": "Hub"
+  },
+  {
+    "question": "Which device can segment a network into VLANs?",
+    "choices": ["Router", "Switch", "Hub", "Modem"],
+    "answer": "Switch"
+  },
+  {
+    "question": "A firewall that examines the state of traffic and allows or blocks packets is called:",
+    "choices": ["Packet filtering firewall", "Stateful firewall", "Proxy firewall", "NAT device"],
+    "answer": "Stateful firewall"
+  },
+  {
+    "question": "What is the main purpose of a load balancer?",
+    "choices": ["Encrypt network traffic", "Monitor network devices", "Distribute traffic across multiple servers", "Block unauthorized traffic"],
+    "answer": "Distribute traffic across multiple servers"
+  },
+  {
+    "question": "Which protocol is commonly used to monitor network devices?",
+    "choices": ["SNMP", "SMTP", "SSH", "ICMP"],
+    "answer": "SNMP"
+  },
+  {
+    "question": "What tool shows the path packets take from source to destination?",
+    "choices": ["ping", "tracert / traceroute", "ipconfig", "nslookup"],
+    "answer": "tracert / traceroute"
+  },
+  {
+    "question": "What is the main purpose of a network baseline?",
+    "choices": ["Identify normal network performance", "Configure IP addresses", "Encrypt network traffic", "Create VLANs"],
+    "answer": "Identify normal network performance"
+  },
+  {
+    "question": "Which type of documentation tracks changes to the network?",
+    "choices": ["Asset documentation", "Change management", "Network diagram", "Configuration backup"],
+    "answer": "Change management"
+  },
+  {
+    "question": "Which tool captures and analyzes network packets?",
+    "choices": ["ping", "Wireshark", "tracert", "netstat"],
+    "answer": "Wireshark"
+  },
+  {
+    "question": "Which protocol provides secure remote terminal access?",
+    "choices": ["Telnet", "SSH", "FTP", "HTTP"],
+    "answer": "SSH"
+  },
+  {
+    "question": "Which wireless security protocol is the most secure for home networks?",
+    "choices": ["WEP", "WPA", "WPA2", "WPA3"],
+    "answer": "WPA3"
+  },
+  {
+    "question": "Which attack involves an attacker intercepting and altering communication between two parties?",
+    "choices": ["DoS", "Man-in-the-middle", "Phishing", "Spoofing"],
+    "answer": "Man-in-the-middle"
+  },
+  {
+    "question": "What does AAA stand for in network security?",
+    "choices": ["Authenticate, Authorize, Audit", "Access, Authenticate, Account", "Authentication, Authorization, Accounting", "Audit, Analyze, Authenticate"],
+    "answer": "Authentication, Authorization, Accounting"
+  },
+  {
+    "question": "Which type of attack floods a network or server to disrupt service?",
+    "choices": ["Spoofing", "DDoS", "Phishing", "ARP poisoning"],
+    "answer": "DDoS"
+  },
+  {
+    "question": "Which command shows IP configuration on a Windows machine?",
+    "choices": ["ifconfig", "ipconfig", "netstat", "nslookup"],
+    "answer": "ipconfig"
+  },
+  {
+    "question": "Which step comes first in a troubleshooting process?",
+    "choices": ["Verify the solution", "Identify the problem", "Document the solution", "Test the theory"],
+    "answer": "Identify the problem"
+  },
+  {
+    "question": "If a computer cannot get an IP from DHCP, which address is it likely to have?",
+    "choices": ["192.168.1.1", "10.0.0.1", "169.254.x.x", "8.8.8.8"],
+    "answer": "169.254.x.x"
+  },
+  {
+    "question": "You notice slow network performance. Which tool can identify bandwidth usage?",
+    "choices": ["tracert", "NetFlow", "nslookup", "ping"],
+    "answer": "NetFlow"
+  },
+  {
+    "question": "Which tool lists active connections and listening ports?",
+    "choices": ["ipconfig", "netstat", "ping", "tracert"],
+    "answer": "netstat"
+  },
+  {
+    "question": "What is the subnet mask for a /24 network?",
+    "choices": ["255.0.0.0", "255.255.0.0", "255.255.255.0", "255.255.255.255"],
+    "answer": "255.255.255.0"
+  },
+  {
+    "question": "Which class of IP address includes 192.168.1.1?",
+    "choices": ["Class A", "Class B", "Class C", "Class D"],
+    "answer": "Class C"
+  },
+  {
+    "question": "What protocol is used to map IP addresses to MAC addresses?",
+    "choices": ["ARP", "DHCP", "DNS", "ICMP"],
+    "answer": "ARP"
+  },
+  {
+    "question": "Which routing protocol uses hop count as its metric?",
+    "choices": ["OSPF", "RIP", "BGP", "EIGRP"],
+    "answer": "RIP"
+  },
+  {
+    "question": "Which protocol is used for dynamic IP assignment?",
+    "choices": ["DNS", "DHCP", "ICMP", "ARP"],
+    "answer": "DHCP"
+  },
+  {
+    "question": "Which wireless standard operates at 5 GHz only?",
+    "choices": ["802.11b", "802.11g", "802.11a", "802.11n"],
+    "answer": "802.11a"
+  },
+  {
+    "question": "Which wireless security uses an enterprise authentication server?",
+    "choices": ["WPA2-Personal", "WPA2-Enterprise", "WEP", "WPA"],
+    "answer": "WPA2-Enterprise"
+  },
+  {
+    "question": "Which channels are non-overlapping in 2.4 GHz Wi-Fi?",
+    "choices": ["1, 2, 3", "1, 6, 11", "2, 5, 8", "3, 6, 9"],
+    "answer": "1, 6, 11"
+  },
+  {
+    "question": "What is the primary purpose of a captive portal?",
+    "choices": ["Monitor bandwidth", "Authenticate users on public Wi-Fi", "Encrypt wireless traffic", "Boost signal strength"],
+    "answer": "Authenticate users on public Wi-Fi"
+  },
+  {
+    "question": "Which Wi-Fi standard provides the highest theoretical speed?",
+    "choices": ["802.11n", "802.11ac", "802.11g", "802.11b"],
+    "answer": "802.11ac"
+  },
+  {
+    "question": "What type of cable is immune to EMI?",
+    "choices": ["Cat6", "Coax", "Fiber-optic", "Twisted pair"],
+    "answer": "Fiber-optic"
+  },
+  {
+    "question": "Which tool is used to attach RJ-45 connectors?",
+    "choices": ["Crimper", "Punchdown tool", "Cable tester", "Multimeter"],
+    "answer": "Crimper"
+  },
+  {
+    "question": "Maximum cable length for Cat5e Ethernet?",
+    "choices": ["50 meters", "100 meters", "200 meters", "500 meters"],
+    "answer": "100 meters"
+  },
+  {
+    "question": "Which fiber type is used for long-distance communication?",
+    "choices": ["Multimode", "Single-mode", "Coax", "Twisted pair"],
+    "answer": "Single-mode"
+  },
+  {
+    "question": "Which connector is used for coaxial cables?",
+    "choices": ["RJ-45", "RJ-11", "F-type", "LC"],
+    "answer": "F-type"
+  },
+  {
+    "question": "What port does FTP use for data transfer?",
+    "choices": ["20/21", "22", "23", "25"],
+    "answer": "20/21"
+  },
+  {
+    "question": "What protocol is used to securely transfer files?",
+    "choices": ["FTP", "SFTP", "Telnet", "HTTP"],
+    "answer": "SFTP"
+  },
+  {
+    "question": "Which port does RDP use?",
+    "choices": ["3389", "22", "443", "21"],
+    "answer": "3389"
+  },
+  {
+    "question": "What does ICMP do?",
+    "choices": ["Transfers files", "Sends email", "Checks connectivity", "Encrypts traffic"],
+    "answer": "Checks connectivity"
+  },
+  {
+    "question": "Which protocol resolves IP to MAC addresses?",
+    "choices": ["ARP", "DNS", "DHCP", "HTTP"],
+    "answer": "ARP"
+  },
+  {
+    "question": "You cannot ping a host, but the cable is fine. What could be the issue?",
+    "choices": ["APIPA", "Firewall blocking ICMP", "Wrong subnet mask", "DHCP server down"],
+    "answer": "Firewall blocking ICMP"
+  },
+  {
+    "question": "Which tool shows a trace of routers between two devices?",
+    "choices": ["ping", "tracert/traceroute", "nslookup", "netstat"],
+    "answer": "tracert/traceroute"
+  },
+  {
+    "question": "Which tool tests DNS resolution?",
+    "choices": ["ping", "nslookup", "ipconfig", "netstat"],
+    "answer": "nslookup"
+  },
+  {
+    "question": "Which type of attack spoofs a MAC address to intercept traffic?",
+    "choices": ["DoS", "ARP poisoning", "Man-in-the-middle", "Phishing"],
+    "answer": "ARP poisoning"
+  },
+  {
+    "question": "What is the final step in a troubleshooting process?",
+    "choices": ["Identify the problem", "Test the theory", "Implement the fix", "Document the solution"],
+    "answer": "Document the solution"
+  }
+]
